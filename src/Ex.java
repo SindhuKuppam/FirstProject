@@ -15,6 +15,7 @@ public class Ex {
         ArrayList<Integer> a1= new ArrayList<>(Arrays.asList(1,2,3,4));
 
         System.out.println("Hi");
+        System.out.println("2nd commit");
 
 
     }
