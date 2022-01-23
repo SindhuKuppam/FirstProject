@@ -14,6 +14,7 @@ public class Ex {
         System.out.println(ar.get(1));
         ArrayList<Integer> a1= new ArrayList<>(Arrays.asList(1,2,3,4));
 
+        System.out.println("Hi");
 
 
     }
